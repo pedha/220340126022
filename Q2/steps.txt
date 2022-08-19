@@ -1,0 +1,35 @@
+Steps :
+
+-> aws login
+
+-> aws console
+
+-> click on EC2
+
+-> launch instance
+
+-> click on ubuntu
+
+-> select 20.04 LTS volume type - free tier
+
+-> tag name - give anything
+
+-> generate key
+
+-> key value - give anything 
+
+-> launch instance
+
+-> click on instance
+
+-> security group
+
+-> click on that instance which is in security group
+
+-> inbound rule (if we want to edit then we can)
+
+-> select and click on instance
+
+-> connect
+
+-> terminal wiil open - then install mosquitto
