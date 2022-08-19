@@ -1,0 +1,15 @@
+Steps :
+
+-> open postman
+
+-> open ThingsBoard
+
+-> In ThingsBoard in devices create a new device and after that in credential part type the token for the device management
+
+-> after that in postman using post request in body->raw->json type the given payload
+
+-> and in postman type the url of thingsboard for verifying and post the payload for to access the data in thingsboard
+
+-> this is the url which is post for postman https://demo.thingsboard.io/api/v1/Payal123/telemetry
+
+-> and after that in thingsboard the payload is visible after that select the telemetry and create a widget and add to the dashboard
