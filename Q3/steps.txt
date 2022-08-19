@@ -1,0 +1,19 @@
+Steps :
+
+-> aws console
+
+-> IAM
+
+-> users - add user - set user name
+
+-> tick - access key, password key
+
+-> set permission boundry - Use a permissions boundary to control the maximum user permissions
+
+-> EC2 - EC2 full access
+
+-> next tag
+
+-> key - value = anything
+
+-> create user
