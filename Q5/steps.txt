@@ -1,0 +1,18 @@
+Steps :
+
+-> write code of mqtt-pub
+
+-> write docker compose file
+
+-> write docker file
+
+-> write mosquitto.conf
+
+-> and data.json file
+
+-> start the mqtt broker service
+
+-> compose the code using docker compose command
+
+-> build and run the code using docker build and docker run command
+
