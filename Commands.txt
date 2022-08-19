@@ -1,0 +1,34 @@
+
+-- github init
+
+	$ git init .
+
+-- github status check
+	
+	$ git --status
+	
+-- github version check
+
+	$ git --version
+	
+-- github clone
+
+	$ git clone <URL>
+
+-- configuration only one time step
+
+	$ git config --global user.name <username>
+	
+	$ git config --global user.email <useremail>
+
+-- how to add the git into staging area 
+
+	$ git add <filename>
+
+-- description and commit the git
+
+	$ git commit -m "My first program in python"
+
+--  commit the changes to the remote repository
+
+	$ git push -u origin master
